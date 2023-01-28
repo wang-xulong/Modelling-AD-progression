@@ -1,1 +1,1 @@
-# KDD2020
+# Modelling AD progression
